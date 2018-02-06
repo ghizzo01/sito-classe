@@ -1,0 +1,22 @@
+.titolo{
+  text-align: center;
+  font-weight: bold;
+  font-size: 40pt;
+  margin-bottom:10px;
+}
+.sottotitolo{
+  text-align: center;
+}
+
+.prof{
+  text-align: center;
+  font-size: 30pt;
+}
+.materia{
+  font-size:20pt;
+  text-align: center;
+}
+.link{
+  font-size: 20pt;
+  text-align: center;
+}
