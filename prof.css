@@ -20,3 +20,10 @@
   font-size: 20pt;
   text-align: center;
 }
+
+.lista-prof{
+  list-style: none;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20pt;
+}
