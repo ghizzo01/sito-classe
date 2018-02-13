@@ -6,6 +6,8 @@
 }
 .sottotitolo{
   text-align: center;
+  font-size: 20pt;
+  font-style: italic;
 }
 
 .prof{
@@ -23,6 +25,17 @@
 
 .lista-prof{
   list-style: none;
+  text-align: center;
+  font-weight: bold;
+  font-size: 20pt;
+}
+
+.compiti{
+  text-align: center;
+  font-size: 30pt;
+}
+
+.crediti{
   text-align: center;
   font-weight: bold;
   font-size: 20pt;
