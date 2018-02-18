@@ -10,9 +10,8 @@
   font-style: italic;
 }
 
-.prof{
-  text-align: center;
-  font-size: 30pt;
+.prof{text-align: center;
+      font-size: 30pt;
 }
 .materia{
   font-size:20pt;
@@ -39,4 +38,7 @@
   text-align: center;
   font-weight: bold;
   font-size: 20pt;
+}
+.giorno{
+  font-weight: bold;
 }
