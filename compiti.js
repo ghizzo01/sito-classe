@@ -13,7 +13,7 @@ xmlHttp.onreadystatechange = function() {
         for(var i = 0; i < giorni.length; i++) {
             var giorno = giorni[i];
             var nome_giorno = giorno['giorno'];
-            html = html + "<li>" +'<p class="giorno"'+ '</p>' + nome_giorno ;
+            html = html + "<li>" +'<p class="giorno">'+ '</p>' + nome_giorno ;
             html = html + "<ul>";
 
             var compiti = giorno['compiti'];
