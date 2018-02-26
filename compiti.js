@@ -6,7 +6,7 @@ xmlHttp.onreadystatechange = function() {
         var interpretato = JSON.parse(xmlHttp.responseText);
 
         var ultimo_aggiornamento = interpretato["ultimo_aggiornamento"];
-        html = html + '<p class="aggiornamento">'+"ultimo aggiornamento: " + ultimo_aggiornamento + '</p>';
+        html = html + '<p class="aggiornamento">' + "Ultimo aggiornamento: " + ultimo_aggiornamento + '</p>';
 
         var giorni = interpretato['giorni'];
         html = html + "<ul>";
